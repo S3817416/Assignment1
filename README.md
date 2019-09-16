@@ -1,4 +1,3 @@
-# Assignment 1
 
 <html>
 <head>
@@ -143,12 +142,16 @@ In contrast, it also displayed my weaknesses. My weaknesses are the following:
 <li>Poor long-term planners</li>
 <li>Unfocused</li>
 
+<br>
+<img src="myer-briggs.png" alt="myer-briggs result">
 
 <h6> RESULTS </h6>
 RESULTS OF LEARNING STYLE TEST:
 <br>
 My results for the online learning style test highlights that I am mainly a tactile learner meaning that I learn best whilst physically doing or touching something. This method allows me to remember through being hands-on whether it is through building, drawing or moving. My score on the tactile sector was 45%, whereas the auditory sector was 30% and the visual sector as 25%.
 
+<br>
+<img src="learningStyle.png" alt="learning style result">
 <br>
 <br>
 RESULTS OF ENNEAGRAM PERSONALITY TEST:
@@ -159,6 +162,9 @@ RESULTS OF ENNEAGRAM PERSONALITY TEST:
 Type 1 – 96% | Type 2 – 76% | Type 3 – 70% | Type 4 – 72% | Type 5 – 70%
 <br>
 Type 6 – 88% | Type 7 – 78% | Type 8 – 68% | Type 9 – 72%
+
+<br>
+<img src="personalityTest.png" alt="personality test result">
 
 <h6> ANALYSE THE RESULTS </h6>
 How do you think these results may influence your behavior in a team?
