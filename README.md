@@ -6,7 +6,7 @@
 </head>
 <body>
 
-<h1><b>PERSONAL INFORMATION:</b></h1>
+<h6><b>PERSONAL INFORMATION:</b></h6>
 
 <p>
 Welcome all to my website!
